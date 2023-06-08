@@ -31,9 +31,9 @@
     }
   ],
   "config": {
-    "max_size": "10M",
+    "max_size": "50M",
     "retain": "30",
-    "compress": false,
+    "compress": true,
     "dateFormat": "YYYY-MM-DD_HH-mm-ss",
     "workerInterval": "30",
     "rotateInterval": "0 0 * * *",
